@@ -1,9 +1,4 @@
-# ec523-lip-reading-project
-Group Project for EC523 Deep Leaning course
-
-Usman Jalil, Chris Krenz, Cole Resurreccion, Thomas Simmons
-{ujalil,ckrenz,coler,tsimmons}@bu.edu
-
+# Deep Lip Reading
 
 ## Overview
 
